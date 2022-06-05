@@ -1,0 +1,14 @@
+C:\Users\Cashloans\source\repos\AliStore\AliStore\bin\Debug\netcoreapp3.1\AliStore.exe
+C:\Users\Cashloans\source\repos\AliStore\AliStore\bin\Debug\netcoreapp3.1\AliStore.deps.json
+C:\Users\Cashloans\source\repos\AliStore\AliStore\bin\Debug\netcoreapp3.1\AliStore.runtimeconfig.json
+C:\Users\Cashloans\source\repos\AliStore\AliStore\bin\Debug\netcoreapp3.1\AliStore.runtimeconfig.dev.json
+C:\Users\Cashloans\source\repos\AliStore\AliStore\bin\Debug\netcoreapp3.1\AliStore.dll
+C:\Users\Cashloans\source\repos\AliStore\AliStore\bin\Debug\netcoreapp3.1\AliStore.pdb
+C:\Users\Cashloans\source\repos\AliStore\AliStore\obj\Debug\netcoreapp3.1\AliStore.csproj.AssemblyReference.cache
+C:\Users\Cashloans\source\repos\AliStore\AliStore\obj\Debug\netcoreapp3.1\AliStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cashloans\source\repos\AliStore\AliStore\obj\Debug\netcoreapp3.1\AliStore.AssemblyInfoInputs.cache
+C:\Users\Cashloans\source\repos\AliStore\AliStore\obj\Debug\netcoreapp3.1\AliStore.AssemblyInfo.cs
+C:\Users\Cashloans\source\repos\AliStore\AliStore\obj\Debug\netcoreapp3.1\AliStore.csproj.CoreCompileInputs.cache
+C:\Users\Cashloans\source\repos\AliStore\AliStore\obj\Debug\netcoreapp3.1\AliStore.dll
+C:\Users\Cashloans\source\repos\AliStore\AliStore\obj\Debug\netcoreapp3.1\AliStore.pdb
+C:\Users\Cashloans\source\repos\AliStore\AliStore\obj\Debug\netcoreapp3.1\AliStore.genruntimeconfig.cache

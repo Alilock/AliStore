@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliStore", "AliStore\AliStore.csproj", "{2875B2A7-5BBE-4671-8EA9-F0F11AFC7712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2875B2A7-5BBE-4671-8EA9-F0F11AFC7712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2875B2A7-5BBE-4671-8EA9-F0F11AFC7712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2875B2A7-5BBE-4671-8EA9-F0F11AFC7712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2875B2A7-5BBE-4671-8EA9-F0F11AFC7712}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E5A6F50-2BC4-4371-879F-B1D774DF91A1}
+	EndGlobalSection
+EndGlobal
